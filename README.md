@@ -82,7 +82,7 @@ As a user I would like:
 
 ## Known Bugs
 
-> No known bugs yet but incase of any reach out to robertlagat38@gmail.com
+> No known bugs yet but incase of any reach out to bravoyegon@gmail.com
 
 ## Support and Contact Details
 
