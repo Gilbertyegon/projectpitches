@@ -16,14 +16,14 @@ class Config:
     MAIL_PORT = 465
     MAIL_USE_TLS = False
     MAIL_USE_SSL = True
-    MAIL_USERNAME = 'planetmoses12@gmail.com'
+    MAIL_USERNAME = 'salnobel38@gmail.com'
     MAIL_PASSWORD = 'Lahaja40'
 
 class ProdConfig(Config):
     DATABASE_NAME = DBNAME
     SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL') or \
         'sqlite:///' + os.path.join(BASEDIR, DBNAME)
-        
+
 class DevConfig(Config):
     DEBUG = True
 
