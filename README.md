@@ -25,7 +25,7 @@ As a user I would like:
 ## How to use it
 
 > * Internet connection
-> * Click () <br/>
+> * Click (https://projectpitches.herokuapp.com/) <br/>
   or <br/>
 > * Copy () and  Paste the link on your prefered browser
 
