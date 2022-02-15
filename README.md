@@ -27,7 +27,7 @@ As a user I would like:
 > * Internet connection
 > * Click (https://projectpitches.herokuapp.com/) <br/>
   or <br/>
-> * Copy () and  Paste the link on your prefered browser
+> * Copy (https://projectpitches.herokuapp.com/) and  Paste the link on your prefered browser
 
 ## How it works
 
