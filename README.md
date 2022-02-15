@@ -48,7 +48,7 @@ As a user I would like:
 
 > * Internet access
 > * ```git clone https://github.com/Gilbertyegon/projectpitches.git``
-> * ```cd pitchhome```
+> * ```cd projectpitches```
 
 #### To install a virtual environment
 
